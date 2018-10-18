@@ -1,0 +1,9 @@
+[08/11/2016 3:47 AM] - SUCCESS :login
+[08/11/2016 3:47 AM] - SUCCESS :login
+[08/11/2016 3:47 AM] - SUCCESS :Authenticate request - Username: jose 
+[08/11/2016 3:49 AM] - SUCCESS :login
+[08/11/2016 3:49 AM] - SUCCESS :Authenticate request - Username: jose 
+[08/11/2016 3:50 AM] - SUCCESS :login
+[08/11/2016 3:50 AM] - SUCCESS :Authenticate request - Username: jose 
+[08/13/2016 5:51 PM] - SUCCESS :login
+[08/13/2016 5:51 PM] - SUCCESS :Authenticate request - Username: jose 

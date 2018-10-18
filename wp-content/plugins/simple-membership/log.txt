@@ -1,0 +1,6 @@
+[08/11/2016 3:48 AM] - SUCCESS :Member notification email sent to: residentevil421@yahoo.com
+[08/11/2016 3:48 AM] - SUCCESS :Admin notification email sent to: Sanchez24jose@gmail.com
+[08/11/2016 3:50 AM] - SUCCESS :Member notification email sent to: residentevil421@yahoo.com
+[08/11/2016 3:50 AM] - SUCCESS :Admin notification email sent to: Sanchez24jose@gmail.com
+[08/12/2016 3:55 AM] - SUCCESS :Member notification email sent to: drelephihu@throwam.com
+[08/12/2016 3:55 AM] - SUCCESS :Admin notification email sent to: Sanchez24jose@gmail.com

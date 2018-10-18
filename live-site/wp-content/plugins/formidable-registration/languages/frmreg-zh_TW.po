@@ -1,0 +1,617 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Formidable Registration v1.11.08\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-02-17 20:12:25+0000\n"
+"Last-Translator: jamie-2-2-2-2-2-2-2-2-2-2 <jamie@strategy11.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: FrmRegAppController.php:90
+#@ frmreg
+msgid "You are running an outdated version of Formidable. This plugin may not work correctly if you do not update Formidable."
+msgstr "你正在運行 Formidable 的一個過時版本。如果你不更新 Formidable，這個插件可能無法正常工作。"
+
+#: FrmRegAppController.php:295
+#@ frmreg
+msgid "User ID"
+msgstr "User ID"
+
+#: models/FrmRegValidate.php:92
+#@ frmreg
+msgid "This username is already registered."
+msgstr "這個用戶名已經被註冊使用了。"
+
+#: models/FrmRegValidate.php:96
+#@ frmreg
+msgid "This username is invalid because it uses illegal characters. Please enter a valid username."
+msgstr "這個用戶名是無效的，因為他有不合乎規定的字元。請輸入有效的用戶名。"
+
+#: models/FrmRegValidate.php:116
+#@ frmreg
+msgid "This email address is already registered."
+msgstr "這個 Email 信箱已經被註冊使用了。"
+
+#: models/FrmRegValidate.php:74
+#@ frmreg
+msgid "Passwords may not contain the character \"\\\"."
+msgstr "密碼必須不包含這個字元 \"\\\"。"
+
+#: FrmRegAppController.php:453
+#, php-format
+#@ frmreg
+msgid "<strong>ERROR</strong>: You have not confirmed your e-mail address. %1$sResend activation%2$s?"
+msgstr "<strong>錯誤</strong>：你尚未認證你的 Eamil 信箱。%1$s重發認證信%2$s？"
+
+#: FrmRegAppController.php:455
+#@ frmreg
+msgid "<strong>ERROR</strong>: Your registration has not yet been approved."
+msgstr "<strong>錯誤</strong>：您的註冊尚未得到批准。"
+
+#: FrmRegAppController.php:457
+#@ frmreg
+msgid "<strong>ERROR</strong>: Your payment has not been completed. You must complete your payment before you may log in."
+msgstr "<strong>錯誤</strong>：你的付款尚未完成。你必須完成付款，才能登入。"
+
+#: FrmRegAppController.php:529
+#@ frmreg
+msgid "Your account is now active. Enjoy!"
+msgstr "現在你的帳戶已認證開通。歡迎您的加入！"
+
+#: FrmRegAppController.php:533
+#@ frmreg
+msgid "Your account has been activated. You may now log in."
+msgstr "你的帳戶已認證。你現在可以登入！"
+
+#: FrmRegAppController.php:537
+#@ frmreg
+msgid "Your account has been activated. Please check your e-mail for your password."
+msgstr "你的帳戶已認證。請打開你 Email 信箱，取得密碼。"
+
+#: FrmRegAppController.php:623
+#@ frmreg
+msgid "Settings Saved"
+msgstr "設定已儲存"
+
+#: FrmRegAppController.php:813
+#: FrmRegAppHelper.php:495
+#@ frmreg
+msgid "The activation e-mail has been sent to the e-mail address with which you registered. Please check your email and click on the link provided."
+msgstr "認證信已發送到你註冊所使用的 Email 信箱。請檢查你的 Email 信箱，並點擊信中所提供的連結。"
+
+#: FrmRegAppController.php:815
+#: FrmRegAppHelper.php:499
+#@ frmreg
+msgid "That activation link is invalid."
+msgstr "這個認證連結是無效的。"
+
+#: FrmRegAppController.php:1181
+#: views/_register_settings.php:34
+#: views/registration_options.php:40
+#: widgets/FrmRegLogin.php:15
+#: widgets/FrmRegLogin.php:44
+#@ frmreg
+msgid "Username"
+msgstr "用戶名"
+
+#: FrmRegAppController.php:1182
+#: views/_register_settings.php:58
+#: views/registration_options.php:59
+#: widgets/FrmRegLogin.php:15
+#: widgets/FrmRegLogin.php:45
+#@ frmreg
+msgid "Password"
+msgstr "密碼"
+
+#: FrmRegAppController.php:1183
+#: widgets/FrmRegLogin.php:16
+#: widgets/FrmRegLogin.php:45
+#@ frmreg
+msgid "Remember Me"
+msgstr "記住我"
+
+#: FrmRegAppController.php:1184
+#: widgets/FrmRegLogin.php:16
+#: widgets/FrmRegLogin.php:46
+#@ frmreg
+msgid "Login"
+msgstr "登入"
+
+#: FrmRegAppController.php:1347
+#@ frmreg
+msgid "Reset my password"
+msgstr "重設我的密碼"
+
+#: FrmRegAppHelper.php:29
+#@ frmreg
+msgid "Your username and password"
+msgstr "你的用戶名和密碼"
+
+#: FrmRegAppHelper.php:30
+#: models/FrmRegNotification.php:140
+#, php-format
+#@ frmreg
+msgid "Username: %s"
+msgstr "用戶名：%s"
+
+#: FrmRegAppHelper.php:31
+#: models/FrmRegNotification.php:141
+#, php-format
+#@ frmreg
+msgid "Password: %s"
+msgstr "密碼：%s"
+
+#: FrmRegAppHelper.php:474
+#@ frmreg
+msgid "The username field is empty."
+msgstr "這個用戶名欄位是空的。"
+
+#: FrmRegAppHelper.php:479
+#@ frmreg
+msgid "The password field is empty."
+msgstr "這個密碼欄位是空的。"
+
+#: FrmRegAppHelper.php:484
+#, php-format
+#@ frmreg
+msgid "Invalid username or password. %1$sLost your password%2$s?"
+msgstr "無效的用戶名或密碼 %1$s忘記你的密碼%2$s？"
+
+#: FrmRegAppHelper.php:490
+#, php-format
+#@ frmreg
+msgid "You have not confirmed your e-mail address. %1$sResend activation%2$s?"
+msgstr "你尚未認證你的 Email 信箱。%1$s重發認證信%2$s？"
+
+#: FrmRegAppHelper.php:511
+#@ frmreg
+msgid "Your email has been successfully confirmed, but you must complete your payment before you can log in."
+msgstr "你的 Email 信箱已經成功認證，但你必須完成付款，然後才能登入。"
+
+#: FrmRegAppHelper.php:513
+#@ frmreg
+msgid "Your email has been confirmed, but you must now be approved by an administrator before you can log in. You will be notified by e-mail once your account has been reviewed."
+msgstr "你的 Email 信箱已經確認，但你現在必須由管理員的批准，然後才能登錄。一旦你的帳戶進行了審核，將會發信通知你。"
+
+#: FrmRegAppHelper.php:529
+#@ frmreg
+msgid "Require new users to confirm their e-mail address before they may log in."
+msgstr "需要新的使用者，來確認他們的 Email 信箱，然後才可以登入。"
+
+#: FrmRegAppHelper.php:530
+#@ frmreg
+msgid "Require new users to be approved by an administrator before they may log in."
+msgstr "需要新的使用者通過管理員的批准，他們才可以登錄。"
+
+#: FrmRegAppHelper.php:531
+#@ frmreg
+msgid "Prevent users from logging in until Paypal payment is complete."
+msgstr "在 Paypal 付款完成前，阻止用戶登入。"
+
+#: FrmRegAppHelper.php:532
+#@ frmreg
+msgid "Select the page where users will be redirected after clicking the activation link."
+msgstr "選擇一個讓使用者點擊認證連結後，自動重定向的頁面。"
+
+#: FrmRegAppHelper.php:533
+#@ frmreg
+msgid "Select the general login/logout page for your site."
+msgstr "選擇你網站一般登入和登出的頁面。"
+
+#: models/FrmRegAction.php:14
+#@ frmreg
+msgid "Register User"
+msgstr "註冊使用者"
+
+#: models/FrmRegNotification.php:44
+#, php-format
+#@ frmreg
+msgid "[%s] Activate Your Account"
+msgstr "請認證您的 %s 帳戶～"
+
+#: models/FrmRegNotification.php:45
+#, php-format
+#@ frmreg
+msgid "Thanks for registering at %s! To complete the activation of your account please click the following link: "
+msgstr "%s 感謝您的參與！請您點擊下方連結，完成帳戶的認證："
+
+#: models/FrmRegNotification.php:152
+#, php-format
+#@ frmreg
+msgid "[%s] Your username and password"
+msgstr "[%s] 你的用戶名和密碼"
+
+#: models/FrmRegNotification.php:198
+#@ frmreg
+msgid "Created at signup"
+msgstr "註冊時創造"
+
+#: views/_register_settings.php:5
+#: views/registration_options.php:16
+#@ frmreg
+msgid "User Email"
+msgstr "使用者信箱"
+
+#: views/_register_settings.php:24
+#: views/registration_options.php:33
+#@ frmreg
+msgid "You need an \"email\" field type in your form"
+msgstr "在你的表單內，你需要一個 \" Email 信箱 \" 欄位"
+
+#: views/_register_settings.php:38
+#: views/registration_options.php:42
+#@ frmreg
+msgid "Automatically Generate from Email"
+msgstr "從 Email 信箱自動產生"
+
+#: views/_register_settings.php:39
+#: views/registration_options.php:43
+#@ frmreg
+msgid "Use Full Email Address"
+msgstr "使用完整 Email 信箱"
+
+#: views/_register_settings.php:62
+#: views/registration_options.php:61
+#@ frmreg
+msgid "Automatically Generate"
+msgstr "自動產生"
+
+#: views/_register_settings.php:81
+#: views/registration_options.php:77
+#@ frmreg
+msgid "First Name"
+msgstr "姓名"
+
+#: views/_register_settings.php:85
+#: views/_register_settings.php:108
+#: views/_register_settings.php:165
+#: views/registration_options.php:79
+#: views/registration_options.php:97
+#: views/registration_options.php:139
+#@ frmreg
+msgid "None"
+msgstr "無"
+
+#: views/_register_settings.php:104
+#: views/registration_options.php:95
+#@ frmreg
+msgid "Last Name"
+msgstr "姓氏"
+
+#: views/_register_settings.php:127
+#: views/registration_options.php:113
+#@ frmreg
+msgid "Display Name"
+msgstr "顯示名稱"
+
+#: views/_register_settings.php:131
+#: views/registration_options.php:115
+#@ frmreg
+msgid "Same as Username"
+msgstr "與用戶名相同"
+
+#: views/_register_settings.php:132
+#: views/registration_options.php:116
+#@ frmreg
+msgid "First Last (as selected above)"
+msgstr "姓名、姓氏 ( 如上方選擇 )"
+
+#: views/_register_settings.php:133
+#: views/registration_options.php:117
+#@ frmreg
+msgid "Last First (as selected above)"
+msgstr "姓氏、姓名 ( 如上方選擇 )"
+
+#: views/_register_settings.php:152
+#: views/registration_options.php:133
+#@ frmreg
+msgid "User Role"
+msgstr "使用者角色"
+
+#: views/_register_settings.php:161
+#: views/registration_options.php:137
+#@ frmreg
+msgid "Avatar"
+msgstr "大頭照"
+
+#: views/_register_settings.php:161
+#: views/registration_options.php:137
+#@ frmreg
+msgid "Only select an avatar if you have not set it in another form. Only file upload fields will show here."
+msgstr "如果你尚未設定另一個表單，只有選擇一個大頭照。這裡將只會顯示檔案上傳欄位。"
+
+#: views/_register_settings.php:183
+#: views/registration_options.php:10
+#@ frmreg
+msgid "Automatically log in users who submit this form"
+msgstr "當送出表單後，使用者自動登入"
+
+#: views/_register_settings.php:189
+#: views/registration_options.php:155
+#@ frmreg
+msgid "User Meta"
+msgstr "User Meta"
+
+#: views/_register_settings.php:200
+#: views/registration_options.php:164
+#@ frmreg
+msgid "Add"
+msgstr "新增"
+
+#: views/_register_settings.php:205
+#: views/registration_options.php:167
+#@ frmreg
+msgid "User Moderation"
+msgstr "使用者審核"
+
+#: views/_register_settings.php:209
+#: views/registration_options.php:171
+#@ frmreg
+msgid "Email confirmation"
+msgstr "Email 信箱認證"
+
+#: views/_register_settings.php:213
+#: views/registration_options.php:173
+#@ frmreg
+msgid "Redirect to:"
+msgstr "重定向："
+
+#: views/_register_settings.php:219
+#@ frmreg
+msgid "Admin approval"
+msgstr "管理員批准"
+
+#: views/_register_settings.php:227
+#: views/registration_options.php:179
+#@ frmreg
+msgid "Complete Paypal payment"
+msgstr "完成 Paypal 付款"
+
+#: views/_register_settings.php:235
+#: views/registration_options.php:185
+#@ frmreg
+msgid "Email Notification"
+msgstr "電子郵件通知"
+
+#: views/_register_settings.php:239
+#: views/registration_options.php:187
+#@ frmreg
+msgid "From/Reply to"
+msgstr "從 / 回覆至"
+
+#: views/_register_settings.php:242
+#: views/_usermeta_row.php:2
+#: views/new_usermeta_row.php:3
+#: views/registration_options.php:188
+#@ frmreg
+msgid "Name"
+msgstr "名稱"
+
+#: views/_register_settings.php:245
+#: views/registration_options.php:191
+#@ frmreg
+msgid "Email"
+msgstr "Email"
+
+#: views/_register_settings.php:252
+#: views/registration_options.php:195
+#@ frmreg
+msgid "Subject"
+msgstr "主旨"
+
+#: views/_register_settings.php:258
+#: views/registration_options.php:198
+#@ frmreg
+msgid "Message"
+msgstr "訊息"
+
+#: views/_usermeta_row.php:5
+#: views/new_usermeta_row.php:8
+#@ frmreg
+msgid "Form Field"
+msgstr "表單欄位"
+
+#: views/_usermeta_row.php:7
+#: views/new_usermeta_row.php:10
+#@ frmreg
+msgid "Select Field"
+msgstr "選擇欄位"
+
+#: views/global_reg_settings.php:4
+#@ frmreg
+msgid "Login/Logout URL"
+msgstr "登入/登出網址"
+
+#: views/global_reg_settings.php:17
+#@ frmreg
+msgid "Lost Password"
+msgstr "遺失密碼"
+
+#: views/registration_options.php:4
+#@ frmreg
+msgid "Register users who submit this form"
+msgstr "註冊送出表單的使用者"
+
+#: widgets/FrmRegLogin.php:6
+#@ frmreg
+msgid "Add a login form anywhere on your site"
+msgstr "在你網站任何地方新增一個登入頁"
+
+#: FrmRegAppController.php:1508
+#: widgets/FrmRegLogin.php:7
+#@ formidable
+#@ frmreg
+msgid "Login Form"
+msgstr "登入表單"
+
+#: widgets/FrmRegLogin.php:52
+#@ frmreg
+msgid "Display fields in"
+msgstr "顯示欄位在"
+
+#: widgets/FrmRegLogin.php:54
+#@ frmreg
+msgid "multiple rows"
+msgstr "多行"
+
+#: widgets/FrmRegLogin.php:55
+#@ frmreg
+msgid "a single row"
+msgstr "單行"
+
+#: widgets/FrmRegLogin.php:59
+#@ frmreg
+msgid "Use Formidable Styling"
+msgstr "使用 Formidable 樣式"
+
+#: widgets/FrmRegLogin.php:62
+#@ frmreg
+msgid "Slide the login area"
+msgstr "幻燈片登入區域"
+
+#: widgets/FrmRegLogin.php:65
+#@ frmreg
+msgid "Include Remember Me checkbox"
+msgstr "包含記住我複選框"
+
+#: FrmRegAppController.php:1526
+#: widgets/FrmRegLogin.php:67
+#@ formidable
+#@ frmreg
+msgid "Username Label"
+msgstr "用戶名標籤"
+
+#: FrmRegAppController.php:1531
+#: widgets/FrmRegLogin.php:70
+#@ formidable
+#@ frmreg
+msgid "Password Label"
+msgstr "密碼標籤"
+
+#: FrmRegAppController.php:1536
+#: widgets/FrmRegLogin.php:73
+#@ formidable
+#@ frmreg
+msgid "Remember Me Label"
+msgstr "記住我標籤"
+
+#: views/_register_settings.php:260
+#: views/registration_options.php:200
+#, php-format
+#@ frmreg
+msgid "You can also use %1$s and %2$s"
+msgstr "你也可以使用 %1$s 和 %2$s"
+
+#: widgets/FrmRegLogin.php:49
+#@ frmreg
+msgid "Title:"
+msgstr "標題："
+
+#: FrmRegAppController.php:1185
+#@ frmreg
+msgid "Logout"
+msgstr ""
+
+#: FrmRegAppController.php:1508
+#@ formidable
+msgid "Insert a Login Form"
+msgstr ""
+
+#: FrmRegAppController.php:1541
+#@ formidable
+msgid "Login Button Label"
+msgstr ""
+
+#: FrmRegAppController.php:1546
+#@ formidable
+msgid "Logout Label"
+msgstr ""
+
+#: FrmRegAppController.php:1550
+#@ formidable
+msgid "Display format"
+msgstr ""
+
+#: FrmRegAppController.php:1552
+#@ formidable
+msgid "Standard (vertical)"
+msgstr ""
+
+#: FrmRegAppController.php:1553
+#@ formidable
+msgid "Inline (horizontal)"
+msgstr ""
+
+#: FrmRegAppController.php:1558
+#@ formidable
+msgid "Require a click to show the login form"
+msgstr ""
+
+#: FrmRegAppController.php:1562
+#@ formidable
+msgid "Hide the \"Remember Me\" checkbox"
+msgstr ""
+
+#: FrmRegAppController.php:1566
+#@ formidable
+msgid "Hide the username and password labels"
+msgstr ""
+
+#: FrmRegAppController.php:1570
+#@ formidable
+msgid "Hide the login error messages"
+msgstr ""
+
+#: FrmRegAppController.php:1574
+#@ formidable
+msgid "Username Placeholder"
+msgstr ""
+
+#: FrmRegAppController.php:1579
+#@ formidable
+msgid "Password Placeholder"
+msgstr ""
+
+#: FrmRegAppController.php:1584
+#@ formidable
+msgid "Do not use Formidable styling"
+msgstr ""
+
+#: models/FrmRegValidate.php:70
+#@ frmreg
+msgid "Please enter a valid password."
+msgstr ""
+
+#: models/FrmRegValidate.php:88
+#@ frmreg
+msgid "Please enter a valid username."
+msgstr ""
+
+#: models/FrmRegValidate.php:112
+#@ frmreg
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: views/global_reg_settings.php:12
+#@ frmreg
+msgid "Prevent logged-out users from seeing the wp-admin page. Select a page where logged-out users will be redirected when they try to access the wp-admin page or just leave this option blank."
+msgstr ""
+
+#: views/new_usermeta_row.php:3
+#@ frmreg
+msgid "The user meta name will be used to reference your user meta. The user meta name is synonymous with the user meta key. This name/key will be used in the [user_meta key=\"insert_key_here\"] shortcode."
+msgstr ""
+

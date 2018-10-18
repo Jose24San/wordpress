@@ -1,0 +1,100 @@
+/*
+Theme Name: MegaShop Full Width
+Theme URI: http://www.templatemela.com
+Author: TemplateMela
+Author URI: http://www.templatemela.com/
+Description: TemplateMela Theme based on Default Wordpress Theme
+Version: 1.0
+License: Commercial
+License URI: http://www.templatemela.com/license
+Tags: orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, fluid-layout, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: templatemela
+Template: WCM010013
+*/
+@import url("../WCM010013/style.css");
+/* Theme Color */
+
+/**********************Basic Structure***********/
+
+.topbar-main, .header-main, .slider_area_inner, .footer_inner, .main-content-inner, .full-width .inner-container, .panel-row-style-inner-container, .main-content.left-sidebar, .top_main{width:1200px;}
+
+.category-toggle{width: 214px;}
+.product-categories{ width: 232px;    margin: -2px -4px 0;}
+
+.left-sidebar #primary{ width: 78.2%;}
+#secondary{  width: 20%;;}
+
+
+.hover_effect {   background: rgba(0, 0, 0, 0) url("images/megnor/glass.png") no-repeat scroll 326px 0;}
+
+/***************Header*********/
+.site-top{margin: 0 0 21px;}
+.header-search{margin: 10px -1px 0 0;}
+/**************Menu************/
+
+.mega-menu{left:238px;}
+.main-navigation{height: 49px;}
+.mega-menu ul li a{padding:14px 24px;}
+.menu-category{margin-bottom: 18px;}
+
+/*******************Product***************/
+
+.header_banner{float:none; display:inline-block;}
+.header_middle{display: inline-block; float: none; text-align:center; width:58%;}
+.header_banner li{float:none; display:inline-block; text-align:left; }
+
+.tm_cms_banner .cms-image{    padding: 17px 0 0 30px;}
+
+.yith_magnifier_zoom_magnifier { left:380px !important;}
+
+
+
+.blog .simple-type.small-title { margin: 5px 8px 10px;}
+
+.blog .inner-container {    margin: 0 -5px;}
+
+.blog .blog-posts-content.posts-content .container {  margin: 0 8px 15px;}
+
+.category-toolbar{  margin: 0 2px 21px;}
+
+.woocommerce #content nav.woocommerce-pagination, .woocommerce nav.woocommerce-pagination, .woocommerce-page #content nav.woocommerce-pagination, .woocommerce-page nav.woocommerce-pagination{  margin: 21px 2px;}
+.single-product #primary{ width: 78.2%;}
+
+.shop-right-sidebar .mega-menu, .site-header.right-sidebar .mega-menu {
+    left: 0;
+    right: auto;
+}
+.products.list .star-rating{left:46px;}
+.woocommerce table.wishlist_table{ font-size: 14px;}
+
+article.post{ margin: 2px 2px 21px;}
+/****************Sidebar********************/
+	.primary-sidebar .widget { padding: 15px 15px; margin: 0 0 21px;}
+	.widget .widget-title{    padding: 0 11px 13px 0;}
+	.primary-sidebar .widget ul{ padding-top: 10px;}
+	.primary-sidebar .widget.woocommerce ul li {   padding: 9px 0;}
+	.menu-category ul li{padding:7px 0;}
+	.right-sidebar #primary{  width: 78.2%;}
+/***************Contact Form**************/
+
+
+.txt_cnct {
+    width: 100%;
+}
+
+.txt_cnct input {
+    width: 550px;
+}
+
+.contact textarea {
+    height: 100px;
+    width: 550px;
+}
+/***********Footer**************/
+
+.footer-widget{width: 270px;}
+
+#footer-widget-area .first-widget { margin: 0 0 0 20px;   margin: 0 0 0 30px;}
+.footer-block .newsletter.newsletter-widget .newsletter-email,.site-footer .tnp-widget .tnp-email{width:488px;}
+.footer-block h3{margin: 7px 0 7px 24px;}
+.footer-logo{ padding: 40px 0 20px;}

@@ -1,0 +1,35 @@
+*** WooCommerce ShippingEasy Changelog ***
+
+2016.09.09 - version 3.4.1
+ * Custom user agent string added to ShippingEasy API calls.
+
+2016.06.04 - version 3.4.0
+ * Detailed logging on ShippingEasy callback to WooCommerce.
+ * Support for SkyVerge Sequential Order Numbers Pro plugin.
+
+2016.05.19 - version 3.3.0
+ * Added support for WooCommerce Order Status Manager plugin.
+ * Added support for WooCommerce Sequential Order Numbers plugin.
+
+2016.03.21 - version 3.2.0
+ * Support for WooCommerce v2.6 territory changes.
+ * Added support for WooCommerce Shipment Tracking plugin.
+ * Refactored handling of product attributes for wider compatibility. 
+ * Better handling of errors due to incorrect API URL.
+ * Minor code cleanup.
+
+2015.08.28 - version 3.1.3
+ * Added support for WooCommerce Subscriptions extension.
+
+2015.07.14 - version 3.1.2
+ * Fixed bug preventing some complex orders from submitting to ShippingEasy.
+
+2015.06.11 - version 3.1.1
+ * Fixed bug causing coupon codes to replace order notes in ShippingEasy.
+
+2015.05.20 - version 3.1.0
+ * Added function to include coupon codes in order.
+ * Improved support for virtual/downloadable products.
+ 
+2015.05.12 - version 3.0.0
+ * First release with WooThemes!

@@ -1,0 +1,69 @@
+/**
+* 8.0 Media Queries
+ * ----------------------------------------------------------------------------
+ */
+ 
+@import url("../WCM010013/responsive.css");
+
+@media only screen and (max-width: 1230px){
+
+.topbar-main, .header-main, .slider_area_inner, .footer_inner, .main-content-inner, .full-width .inner-container, .panel-row-style-inner-container, .main-content.left-sidebar, .top_main{width:980px;}
+.category-toggle {    width: 170px; }
+.product-categories {    width: 188px; }
+.header_middle{width:49%;}
+.footer-block .newsletter.newsletter-widget .newsletter-email,.site-footer .tnp-widget .tnp-email {    width: 250px;}
+.footer-widget {    width: 220px; }
+.mega-menu{width:auto; left: 197px;}
+.subbanners1 .one_third_inner.content-inner.left {    width: 98% !important; }
+.post-image img{width:100%;}
+
+.tm_cms_banner .cms-image { padding: 17px 0 0 5px;}
+}
+
+@media only screen and (max-width: 999px){
+.topbar-main, .header-main, .slider_area_inner, .footer_inner, .main-content-inner, .full-width .inner-container, .panel-row-style-inner-container, .main-content.left-sidebar, .top_main{width:740px;}
+.category-toggle {    width: 100%;  }
+.footer-widget {    width: 100%; }
+.product-categories {    width: 99%; }
+.mega-menu{width:auto; left: -1px;}
+
+.header_middle{display:none;}
+
+.footer-block h3 {
+    float: left;
+    margin: 10px 0 5px;
+    text-align: center;
+    width: 100%;
+}
+
+.sub-title {
+    margin: 10px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.footer-block .newsletter.newsletter-widget {
+    margin: 7px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.txt_cnct input, .contact textarea {
+    width: auto;
+}
+.primary-sidebar .widget {  padding: 10px;}
+}
+@media only screen and (min-width: 979px) and (max-width: 999px) {.menu-category {  width:44%;}}
+@media only screen and (max-width: 767px){
+.topbar-main, .header-main, .slider_area_inner, .footer_inner, .main-content-inner, .full-width .inner-container, .panel-row-style-inner-container, .main-content.left-sidebar, .top_main{width:auto; margin:0 15px;}
+.subbanners1 .one_third_inner.content-inner.left {    width: 100% !important; }
+.main-navigation{margin:0;}
+.mega-menu {    left: 0; }
+.txt_cnct input, .contact textarea {
+    width: 100%;
+}
+.menu-category {
+    width: 100%;
+}
+
+}

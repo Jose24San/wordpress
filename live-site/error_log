@@ -1,0 +1,62 @@
+[02-Aug-2016 03:42:07 UTC] PHP Fatal error:  Out of memory (allocated 20971520) (tried to allocate 12288 bytes) in /home/wordpr251/public_html/wp-content/plugins/ninja-forms/deprecated/classes/subs-cpt.php on line 390
+[02-Aug-2016 03:42:07 UTC] PHP Fatal error:  Out of memory (allocated 11272192) (tried to allocate 49152 bytes) in /home/wordpr251/public_html/wp-includes/update.php on line 142
+[02-Aug-2016 03:42:07 UTC] PHP Fatal error:  Out of memory (allocated 5767168) (tried to allocate 49152 bytes) in /home/wordpr251/public_html/wp-includes/general-template.php on line 1213
+[02-Aug-2016 03:42:08 UTC] PHP Fatal error:  Out of memory (allocated 23592960) (tried to allocate 12288 bytes) in /home/wordpr251/public_html/wp-content/plugins/ninja-forms/deprecated/includes/admin/display-screen-options.php on line 111
+[02-Aug-2016 06:15:49 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 49152 bytes) in /home/wordpr251/public_html/wp-includes/pluggable.php on line 284
+[02-Aug-2016 06:15:49 UTC] PHP Fatal error:  Out of memory (allocated 27525120) (tried to allocate 12288 bytes) in /home/wordpr251/public_html/wp-includes/pluggable.php on line 2166
+[02-Aug-2016 06:15:49 UTC] PHP Fatal error:  Out of memory (allocated 21495808) (tried to allocate 3072 bytes) in /home/wordpr251/public_html/wp-admin/includes/class-wp-list-table.php on line 1163
+[02-Aug-2016 06:15:49 UTC] PHP Fatal error:  Out of memory (allocated 17563648) (tried to allocate 3072 bytes) in /home/wordpr251/public_html/wp-content/plugins/jetpack/class.jetpack-heartbeat.php on line 61
+[02-Aug-2016 06:15:49 UTC] PHP Fatal error:  Out of memory (allocated 12320768) (tried to allocate 49152 bytes) in /home/wordpr251/public_html/wp-includes/class-http.php on line 314
+[13-Aug-2016 03:03:56 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 03:46:33 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 04:19:52 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 05:14:23 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 06:15:47 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 07:16:20 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 08:18:58 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 09:19:03 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 10:19:02 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 11:18:50 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 12:18:05 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 13:18:49 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 14:18:09 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 15:21:30 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 16:28:15 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 17:33:22 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 18:40:57 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 19:44:32 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 20:49:06 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 22:53:24 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[13-Aug-2016 23:57:37 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 01:07:34 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 02:16:24 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 03:37:19 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 04:58:29 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 06:23:58 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 07:59:17 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 09:32:46 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 11:17:57 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 12:51:26 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 14:30:13 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 16:20:40 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 18:08:26 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[14-Aug-2016 19:52:47 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, string given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[08-Sep-2016 02:25:47 UTC] WordPress database error Table 'wordpr251_testwp.wp_users' doesn't exist for query SELECT * FROM wp_users WHERE user_login = 'jose' made by require('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), WP->init, wp_get_current_user, _wp_get_current_user, apply_filters('determine_current_user'), call_user_func_array, wp_validate_logged_in_cookie, wp_validate_auth_cookie, get_user_by, WP_User::get_data_by
+[12-Sep-2016 22:30:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 13
+[12-Sep-2016 22:30:38 UTC] PHP Parse error:  syntax error, unexpected '"[wpmem_logout]"' (T_CONSTANT_ENCAPSED_STRING) in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 12
+[13-Sep-2016 19:51:04 UTC] PHP Parse error:  syntax error, unexpected '"<a href="' (T_CONSTANT_ENCAPSED_STRING) in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 12
+[13-Sep-2016 19:51:14 UTC] PHP Parse error:  syntax error, unexpected '"<a href="' (T_CONSTANT_ENCAPSED_STRING) in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 12
+[13-Sep-2016 22:00:59 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 13
+[13-Sep-2016 22:04:01 UTC] PHP Parse error:  syntax error, unexpected 'user' (T_STRING), expecting ',' or ';' in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 13
+[16-Sep-2016 16:30:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'woo_simplesetSelectedCountry' not found or invalid function name in /home/wordpr251/public_html/wp-includes/plugin.php on line 525
+[16-Sep-2016 16:34:07 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'woo_simplesetSelectedCountry' not found or invalid function name in /home/wordpr251/public_html/wp-includes/plugin.php on line 525
+[16-Sep-2016 16:36:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'woo_simplesetSelectedCountry' not found or invalid function name in /home/wordpr251/public_html/wp-includes/plugin.php on line 525
+[22-Sep-2016 17:39:48 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/wordpr251/public_html/wp-includes/class-wp-xmlrpc-server.php on line 596
+[27-Sep-2016 15:49:49 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 4
+[27-Sep-2016 15:49:49 UTC] PHP Warning:  log() expects parameter 1 to be double, array given in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 5
+[27-Sep-2016 15:50:10 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 4
+[27-Sep-2016 15:50:10 UTC] PHP Warning:  log() expects parameter 1 to be double, array given in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 5
+[27-Sep-2016 15:54:59 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 8
+[03-Oct-2016 19:12:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 21
+[03-Oct-2016 19:32:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 3
+[03-Oct-2016 19:33:12 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/wordpr251/public_html/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 3
